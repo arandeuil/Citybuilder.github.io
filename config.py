@@ -12,7 +12,7 @@ SECRET = "CHANGE-ME"
 
 
 
-PREMIUM = False
+PREMIUM = True
 # Set PREMIUM to False if:
 #   - You don't want others to overload the program;
 #   - You want to allow multiple users to use this program simultaneously;
